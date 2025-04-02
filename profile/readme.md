@@ -11,4 +11,8 @@ With [ChatBDI](https://github.com/VEsNA-ToolKit/chatbdi) you can insert the user
 [KQML-S](https://github.com/VEsNA-ToolKit/KQML-S) is an extension of the KQML agent communication language to consider situatedness implemented inside the VEsNA framework.
 
 Moving to the implementation of the environment via virtual reality, 
-[VEsNA-light](https://github.com/VEsNA-ToolKit/vesna-light) enables JaCaMo agents to be embodied inside a virtual environment currently implemented in Godot. This repository contains the bridge between agent minds and agent bodies.
+[VEsNA-light](https://github.com/VEsNA-ToolKit/vesna-light) enables JaCaMo agents to be embodied inside a virtual environment currently implemented in Godot. This repository contains the bridge between JaCaMo/Jason agent minds and Godot agent bodies.
+
+#Try VEsNA and contact us for any question!
+
+(Andrea Gatti)[mailto:andrea.gatti@edu.unige.it], Angelo Ferrando, Viviana Mascardi
