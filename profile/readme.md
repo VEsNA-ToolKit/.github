@@ -15,4 +15,4 @@ Moving to the implementation of the environment via virtual reality,
 
 # Try VEsNA and contact us for any question!
 
-[Andrea Gatti](mailto:andrea.gatti@edu.unige.it), [Angelo Ferrando](mailto:angelo.ferrando@unimore.it), [Viviana Mascardi](viviana.mascardi@unige.it)
+[Andrea Gatti](mailto:andrea.gatti@edu.unige.it), [Angelo Ferrando](mailto:angelo.ferrando@unimore.it), [Viviana Mascardi](mailto:viviana.mascardi@unige.it)
