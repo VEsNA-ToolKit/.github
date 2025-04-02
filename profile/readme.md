@@ -13,6 +13,6 @@ With [ChatBDI](https://github.com/VEsNA-ToolKit/chatbdi) you can insert the user
 Moving to the implementation of the environment via virtual reality, 
 [VEsNA-light](https://github.com/VEsNA-ToolKit/vesna-light) enables JaCaMo agents to be embodied inside a virtual environment currently implemented in Godot. This repository contains the bridge between JaCaMo/Jason agent minds and Godot agent bodies.
 
-# Try VEsNA and contact us for any question!
+## Try VEsNA and contact us for any question!
 
 [Andrea Gatti](mailto:andrea.gatti@edu.unige.it), [Angelo Ferrando](mailto:angelo.ferrando@unimore.it), [Viviana Mascardi](mailto:viviana.mascardi@unige.it)
