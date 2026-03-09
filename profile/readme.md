@@ -11,12 +11,12 @@ With [ChatBDI](https://github.com/VEsNA-ToolKit/chatbdi) you can insert the user
 Moving to the implementation of the environment via virtual reality, 
 [VEsNA-light](https://github.com/VEsNA-ToolKit/vesna-light) enables JaCaMo agents to be embodied inside a virtual environment currently implemented in Godot. This repository contains the bridge between [Jason](https://jason-lang.github.io/)/[JaCaMo](https://jacamo-lang.github.io/) agent minds and [Godot](https://godotengine.org/) agent bodies. As for ChatBDI, whose current implementation supports LLM but that is undergoing the integration of other chatbot interfaces, also the virtual reality environment is not meant to be limited to Godot. The integration of [Unity](https://unity.com/), where we started from, is indeed under way.
 
-[KQML-S](https://github.com/VEsNA-ToolKit/KQML-S) is an extension of the KQML agent communication language to consider situatedness implemented inside the VEsNA framework. It represents a bridge between the agent's situatedness and its social ability. 
+[KQML-S](https://github.com/VEsNA-ToolKit/KQML-S) is an extension of the KQML agent communication language to consider situatedness implemented inside the VEsNA framework. It represents a bridge between the agent's situatedness and its social ability. <br>
 
 
 ## Try VEsNA and contact us for any question!
 
-[Andrea Gatti](mailto:andrea.gatti@edu.unige.it), [Angelo Ferrando](mailto:angelo.ferrando@unimore.it), [Viviana Mascardi](mailto:viviana.mascardi@unige.it)
+[Andrea Gatti](mailto:andrea.gatti@edu.unige.it), [Angelo Ferrando](mailto:angelo.ferrando@unimore.it), [Viviana Mascardi](mailto:viviana.mascardi@unige.it)<br>
 
 
 ## Acknowledgements 
@@ -24,6 +24,7 @@ Moving to the implementation of the environment via virtual reality,
 The development of VEsNA has been partly supported by 
 <br>
 <a href="https://www.unibo.it/en/research/projects-and-initiatives/prin/19069/1906930541/27256"><img src="./ENGINES.jpg" width="17%" align="center"></a> <br>
+
 
 
 
