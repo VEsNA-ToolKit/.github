@@ -21,9 +21,10 @@ Moving to the implementation of the environment via virtual reality,
 
 ## Acknowledgements 
 
-The development of VEsNA has been partly supported by  [ENGINES](https://www.unibo.it/en/research/projects-and-initiatives/prin/19069/1906930541/27256)
+The development of VEsNA has been partly supported by 
 <br>
-<img src="./ENGINES.jpg" width="17%" align="center"> <br>
+<a href="https://www.unibo.it/en/research/projects-and-initiatives/prin/19069/1906930541/27256"><img src="./ENGINES.jpg" width="17%" align="center"></a> <br>
+
 
 
 
