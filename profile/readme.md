@@ -14,6 +14,9 @@ Moving to the implementation of the environment via virtual reality,
 [KQML-S](https://github.com/VEsNA-ToolKit/KQML-S) is an extension of the KQML agent communication language to consider situatedness implemented inside the VEsNA framework. It represents a bridge between the agent's situatedness and its social ability. 
 
 
+## The development of VEsNA has been partly supported by  [ENGINES](https://www.unibo.it/en/research/projects-and-initiatives/prin/19069/1906930541/27256) 
+
 ## Try VEsNA and contact us for any question!
 
 [Andrea Gatti](mailto:andrea.gatti@edu.unige.it), [Angelo Ferrando](mailto:angelo.ferrando@unimore.it), [Viviana Mascardi](mailto:viviana.mascardi@unige.it)
+
